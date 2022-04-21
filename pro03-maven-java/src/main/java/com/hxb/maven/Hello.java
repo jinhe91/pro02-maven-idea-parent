@@ -8,6 +8,7 @@ public class Hello {
         System.out.println("hello git4! release commit");
         System.out.println("master test");
         System.out.println("release test!");
-        System.out.println("push test!");
+        System.out.println("push test!推送远程库测试");
+        System.out.println("pull test!拉取远程库代码测试");
     }
 }
