@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("hello maven! I am in idea now!");
         System.out.println("hello git!");
         System.out.println("hello git3!");
+        System.out.println("hello git4! release commit");
     }
 }
